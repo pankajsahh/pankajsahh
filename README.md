@@ -4,7 +4,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://twitter.com/pankajs06738295" target="blank">
+  <a href="https://x.com/pankajsahu19056" target="blank">
     <img src="https://img.shields.io/twitter/follow/pankajs06738295?logo=twitter&style=for-the-badge" alt="pankaj-sahu" />
   </a>
 </p>
